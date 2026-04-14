@@ -29,6 +29,9 @@
 	<properties>
 		<java.version>17</java.version>
 		<mapstruct.version>1.5.5.Final</mapstruct.version>
+		<sonar.projectKey>Isa-Bedoya-UdeA_Banco2026-SA-Lab2</sonar.projectKey>
+        <sonar.organization>isa-bedoya-udea</sonar.organization>
+        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
 	</properties>
 	<dependencies>
 		<dependency>
@@ -122,6 +125,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>banco2026-sa-lab2</finalName>
 	</build>
 
 </project>
