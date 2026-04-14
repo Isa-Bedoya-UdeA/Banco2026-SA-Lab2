@@ -7,3 +7,9 @@
 [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=Isa-Bedoya-UdeA_Banco2026-SA-Lab2&metric=coverage)](https://sonarcloud.io/summary/new_code?id=Isa-Bedoya-UdeA_Banco2026-SA-Lab2)
 [![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=Isa-Bedoya-UdeA_Banco2026-SA-Lab2&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=Isa-Bedoya-UdeA_Banco2026-SA-Lab2)
 [![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=Isa-Bedoya-UdeA_Banco2026-SA-Lab2&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=Isa-Bedoya-UdeA_Banco2026-SA-Lab2)
+
+## Equipo
+
+* Michael Stiven Tabares Tobón
+* Maria Fernanda Atencia Oliva
+* Isabela Bedoya Gaviria
